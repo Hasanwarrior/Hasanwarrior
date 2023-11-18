@@ -1,0 +1,3 @@
+-  Hi, I’m @Hasanwarrior
+-  I’m interested in Datascience, ML
+-  I’m currently learning database and python
